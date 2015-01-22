@@ -2,10 +2,10 @@
 
 [![Build Status](https://travis-ci.org/backbone-boilerplate/backbone-boilerplate.png?branch=master)](https://travis-ci.org/backbone-boilerplate/backbone-boilerplate) [![Coverage Status](https://coveralls.io/repos/backbone-boilerplate/backbone-boilerplate/badge.png)](https://coveralls.io/r/backbone-boilerplate/backbone-boilerplate) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/backbone-boilerplate/backbone-boilerplate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Backbone Boilerplate - todo sample app setup
-================================================
+Backbone Boilerplate Cordova - todo sample app setup
+=====================================================
 
-The famous todo app is used to demonstrate the setup for a backbone boilerplate structure.
+The famous todo app is used to demonstrate the setup for a backbone boilerplate structure for cordova.
 
 ## Documentation ##
 
@@ -19,10 +19,10 @@ The easiest way to get started is to install Git and clone the repository:
 ``` bash
 # Using Git, fetch only the latest commits.  You won't need the full history
 # for your project.
-git clone --depth 1 https://github.com/ludwigheymbeeck/backbone-boilerplate-todo-app
+git clone --depth 1 https://github.com/ludwigheymbeeck/backbone-boilerplate-cordova-todomvc-example
 
 # Move the repository to your own project name.
-mv backbone-boilerplate-todo-app my-project
+mv backbone-boilerplate-cordova-todomvc-example my-project
 ```
 
 You will need to download and install [Node.js](http://nodejs.org/) if you want
@@ -90,4 +90,4 @@ editting the commented regions of the karma configuration in `Gruntfile.js`.
 Copyright © 2014 Tim Branyen (@tbranyen)  
 Licensed under the MIT license.
 
-Modified for todo app by Ludwig Heymbeeck
+Modified for todo cordova app by Ludwig Heymbeeck
